@@ -2,13 +2,13 @@
 
 > **Stop spending hours researching. Start deciding.**
 
-Whether you are figuring out a personal life choice or a million-dollar corporate strategy — every decision deserves more than a gut feeling. Decision Arena puts two independent AI agents head-to-head in a live debate, then brings in a third Judge AI to evaluate both sides and deliver a structured verdict with confidence scores, risk breakdown and a clear suggested action.
+Whether you are figuring out a personal life choice or a million-dollar corporate strategy, every decision deserves more than a gut feeling. Decision Arena puts two independent AI agents head-to-head in a live debate, then brings in a third Judge AI to evaluate both sides and deliver a structured verdict with confidence scores, risk breakdown and a clear suggested action.
 
 ### Why is this different from just asking an AI?
 
-Most AI tools give you one perspective — a single model generating both sides of an argument from the same weights, the same bias, the same blind spots. Decision Arena is different.
+Most AI tools give you one perspective, a single model generating both sides of an argument from the same weights, the same bias, the same blind spots. Decision Arena is different.
 
-Two fully independent agents are deployed with opposing mandates — one is hardwired to argue **for**, the other is hardwired to argue **against**. They do not share context. They do not agree. They fight. A separate Judge agent then steps in — with no stake in either side — to evaluate both arguments on logical coherence, evidence strength and relevance before reaching a verdict.
+Two fully independent agents are deployed with opposing mandates, one is hardwired to argue **for**, the other is hardwired to argue **against**. They do not share context. They do not agree. They fight. A separate Judge agent then steps in, with no stake in either side, to evaluate both arguments on logical coherence, evidence strength and relevance before reaching a verdict.
 
 The result is a decision process that mirrors how the best human teams actually work: structured debate, adversarial challenge, independent review — compressed into seconds instead of hours. Every decision is saved to history so you can revisit your reasoning, track patterns and build a personal or team decision log over time.
 
